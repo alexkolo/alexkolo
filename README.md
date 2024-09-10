@@ -5,11 +5,17 @@ Hi, I'm Alex Kolodzig 👋, a seasoned Data Scientist with 7+ years of experienc
 > [!TIP]
 > If you want to learn more about my professional life, visit [my resume app](https://alex-kolodzig-cv.streamlit.app/), where you can chat with my digital twin 🤖.
 
-## 🏆 Pet Projects
+## 🏆 Pet Project
 
 ### 🥦 **Chatbot** that helps answer questions around healthy eating & lifestyle choices 
 
-[Click here to start chatting](https://dr-greger-blog-bot.streamlit.app/)
+Click on the screenshot to start chatting:
+
+<p align="center">
+  <a href="https://dr-greger-blog-bot.streamlit.app/" target="_blank">
+    <img src="https://github.com/alexkolo/rag_nutrition_facts_blog/blob/main/data/images/app_screenshot_2024-09-10.png" width="400">
+  </a>
+</p>
 
 It's a RAG-based Q&A chatbot based on 1200+ science-backed blog posts of [NutritionFacts.org](https://nutritionfacts.org).
 
