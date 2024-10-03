@@ -9,13 +9,14 @@ Hi, I'm Alex Kolodzig 👋, a seasoned Data Scientist with 7+ years of experienc
 
 ### 🥦 **Chatbot** that helps answer questions around healthy eating & lifestyle choices 
 
-Click on the screenshot to start chatting:
+Click [here](https://nutrify-your-life.streamlit.app/) or on the screenshot to start chatting:
 
 <p align="center">
-  <a href="https://dr-greger-blog-bot.streamlit.app/" target="_blank">
-    <img src="https://github.com/alexkolo/rag_nutrition_facts_blog/blob/main/data/images/app_screenshot_2024-09-10.png" width="400">
+  <a href="https://nutrify-your-life.streamlit.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e43c65bf-5702-4225-8c82-9943e8d2e904" width="400">
   </a>
 </p>
+
 
 It's a RAG-based Q&A chatbot based on 1200+ science-backed blog posts of [NutritionFacts.org](https://nutritionfacts.org).
 
@@ -24,9 +25,6 @@ For more details see the [GitHub Repository](https://github.com/alexkolo/rag_nut
 **Technologies:** GenAI • RAG • Text Embeddings • Sentence Transformers • Vector Store • Vector Search • Keyword Search • LLM API (Groq) • LLMs (Mistral, LLama3) • Prompt Engineering • Web App • UI/UX • Monitoring • Dashboard
 
 <!--
-**alexkolo/alexkolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
