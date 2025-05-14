@@ -1,6 +1,6 @@
 # ✨ Welcome ✨
 
-Hi, I'm Alex Kolodzig 👋, a seasoned Data Scientist with 7+ years of experience spanning the energy sector, astrophysics, and big data analytics.
+Hi, I'm Alex Kolodzig 👋, a seasoned Data Scientist with 8+ years of experience spanning the energy sector, astrophysics, and big data analytics.
 
 > [!TIP]
 > If you want to learn more about my professional life, visit [my resume app](https://alex-kolodzig-cv.streamlit.app/), where you can chat with my digital twin 🤖.
