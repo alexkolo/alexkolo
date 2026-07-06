@@ -5,6 +5,7 @@ Hi, I'm Alex Kolodzig 👋, a seasoned Data Scientist with 8+ years of experienc
 > [!TIP]
 > If you want to learn more about my professional life, visit [my resume app](https://alex-kolodzig-cv.streamlit.app/), where you can chat with my digital twin 🤖.
 
+<!--
 ## 🏆 Pet Project
 
 ### 🥦 **Chatbot** that helps answer questions around healthy eating & lifestyle choices 
